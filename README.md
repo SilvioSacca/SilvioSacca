@@ -19,7 +19,7 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Typescript](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=Typescript)
+  ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=Typescript)
   
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
